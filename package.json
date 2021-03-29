@@ -1,0 +1,15 @@
+{
+  "name": "tarefa4",
+  "version": "1.0.0",
+  "description": "Tarefa 4, usando express.js, rota para página de contato, middleware, pasta publica, body-parser, pagina 404",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Guedes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
